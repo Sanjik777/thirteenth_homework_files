@@ -1,0 +1,6 @@
+C:\Users\Санжар\source\repos\thirteenth_homework_files\practical_work\bin\Debug\practical_work.exe
+C:\Users\Санжар\source\repos\thirteenth_homework_files\practical_work\bin\Debug\practical_work.pdb
+C:\Users\Санжар\source\repos\thirteenth_homework_files\practical_work\obj\Debug\practical_work.csproj.CoreCompileInputs.cache
+C:\Users\Санжар\source\repos\thirteenth_homework_files\practical_work\obj\Debug\practical_work.exe
+C:\Users\Санжар\source\repos\thirteenth_homework_files\practical_work\obj\Debug\practical_work.pdb
+C:\Users\Санжар\source\repos\thirteenth_homework_files\practical_work\obj\Debug\practical_work.csprojResolveAssemblyReference.cache

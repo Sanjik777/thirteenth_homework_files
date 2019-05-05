@@ -1,0 +1,6 @@
+C:\Users\Санжар\source\repos\thirteenth_homework_files\thirteenth_homework_files\bin\Debug\thirteenth_homework_files.exe
+C:\Users\Санжар\source\repos\thirteenth_homework_files\thirteenth_homework_files\bin\Debug\thirteenth_homework_files.pdb
+C:\Users\Санжар\source\repos\thirteenth_homework_files\thirteenth_homework_files\obj\Debug\thirteenth_homework_files.csprojResolveAssemblyReference.cache
+C:\Users\Санжар\source\repos\thirteenth_homework_files\thirteenth_homework_files\obj\Debug\thirteenth_homework_files.csproj.CoreCompileInputs.cache
+C:\Users\Санжар\source\repos\thirteenth_homework_files\thirteenth_homework_files\obj\Debug\thirteenth_homework_files.exe
+C:\Users\Санжар\source\repos\thirteenth_homework_files\thirteenth_homework_files\obj\Debug\thirteenth_homework_files.pdb
